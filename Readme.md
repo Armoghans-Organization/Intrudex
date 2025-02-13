@@ -323,5 +323,5 @@ We follow the [Contributor Covenant](https://contributor-covenant.org).
 Intrudex is released under the MIT License.
 
 ## 🌟 Star History 
-Embed a star-history badge to show project growth.
-[![Star History](https://api.star-history.com/svg?repos=Armoghans-Organization/Intrudex)](https://star-history.com/#Armoghans-Organization/intrudex)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Armoghans-Organization/intrudex&type=Timeline)](https://star-history.com/#Armoghans-Organization/intrudex&Timeline)
